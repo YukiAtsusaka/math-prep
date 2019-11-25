@@ -9,7 +9,7 @@ For a related summer course "Social Analysis and Simulation in R (2019)", please
 
 <br>
 
-Past instructors (more will be added! If you know the history at Rice, please let me know by contacting atsusaka[AT]rice.edu)
+Past instructors (more will be added! If you know the history of RicePoliSci, please let me know by contacting atsusaka[AT]rice.edu)
 
 - Ahra Wu (2015-2017, Dartmouth College)
 - Yuki Atsusaka (2018-, Current Student)
