@@ -1,6 +1,15 @@
-# math-prep
-Materials for the Math Prep at Rice University
+## Materials for the Math Prep
 
-Welcome to the page of the Math Prep in the Department of Political Science at Rice University!
+#### Welcome to the page of the Math Prep in the Department of Political Science at Rice University!
+Course materials are stored in here.
+
+For a related summer course "Social Analysis and Simulation in R (2019)", please visit (https://github.com/YukiAtsusaka/R_2019).
 
 
+
+<br>
+
+Past instructors (more will be added!)
+
+- Ahra Wu (2015-2017, Dartmouth College)
+- Yuki Atsusaka (2018-, Current Student)
